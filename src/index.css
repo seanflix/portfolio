@@ -2,3 +2,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'Vermin';
+    src: url('./fonts/VerminVibes2.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Mona';
+    src: url('./fonts/MonaSans.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url('./fonts/Manrope.ttf') format('truetype');
+}
