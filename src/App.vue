@@ -37,6 +37,8 @@ import Portfolio from './components/PortfolioSection.vue'
 import { TweenLite, Circ } from 'gsap'
 
 onMounted(() => {
+    document.title = "Seanflix Portfolio";
+
   (function() {
     var width, height, canvas, ctx, points, target, animateHeader = true;
 
