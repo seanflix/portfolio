@@ -1,25 +1,19 @@
 <template>
   <canvas class="absolute z-10 w-full h-full inset-0 opacity-50" id="demo-canvas"></canvas>
-  <div class="relative h-screen overflow-y-scroll bg-gray-950 text-slate-400">
+  <div class="relative h-screen overflow-y-scroll bg-gray-950 text-slate-400 scroll-smooth">
     <div class="relative z-20">
         <div class="mx-auto min-h-screen max-w-screen-xl px-6 py-12 font-sans md:px-12 md:py-16 lg:py-0">
             <div class="lg:flex lg:justify-between lg:gap-4">
-                <Navbar />
+                <Nav />
                 <main id="content" class="pt-24 lg:w-[52%] lg:py-24">
                     <About />
                     <Experience />
+                    <Projects />
+                    <Portfolio />
+                    <Footer />
                 </main>
             </div>
         </div>
-      
-      <!-- <Hero />
-      <About />
-      <Services />
-      <Portfolio />
-      <Work />
-      <Testimonial />
-      <Contact />
-      <Footer /> -->
     </div>
   </div>
 </template>
@@ -28,16 +22,17 @@
 
 import { onMounted } from 'vue'
 
-import Navbar from './components/NavbarSection.vue'
-// import Hero from './components/HeroSection.vue'
+import Nav from './components/NavSection.vue'
 import About from './components/AboutSection.vue'
 import Experience from './components/ExperienceSection.vue'
+import Projects from './components/ProjectsSection.vue'
+import Footer from './components/FooterSection.vue'
+import Portfolio from './components/PortfolioSection.vue'
+// import Hero from './components/HeroSection.vue'
 // import Services from './components/ServicesSection.vue'
-// import Portfolio from './components/PortfolioSection.vue'
 // import Work from './components/WorkSection.vue'
 // import Testimonial from './components/TestimonialSection.vue'
 // import Contact from './components/ContactSection.vue'
-// import Footer from './components/FooterSection.vue'
 
 import { TweenLite, Circ } from 'gsap'
 

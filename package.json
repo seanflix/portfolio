@@ -9,10 +9,12 @@
   },
   "dependencies": {
     "@vue/cli": "^5.0.8",
+    "@vuesimple/vs-modal": "^3.0.9",
     "core-js": "^3.8.3",
     "gsap": "^3.12.4",
     "typed.js": "^2.1.0",
-    "vue": "^3.2.13"
+    "vue": "^3.2.13",
+    "vue3-scroll-spy": "^1.0.8"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
