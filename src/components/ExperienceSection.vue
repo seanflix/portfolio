@@ -14,7 +14,7 @@
                         <div class="z-10 sm:col-span-6">
                             <h3 class="font-medium leading-snug text-slate-200">
                                 <div>
-                                    <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://www.klaviyo.com" target="_blank" rel="noreferrer noopener" aria-label="Senior Frontend Engineer, Accessibility at Klaviyo (opens in a new tab)">
+                                    <div class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base">
                                         <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                                         <div>
                                             <span class="block mb-1">
@@ -22,7 +22,7 @@
                                             </span>
                                             <span class="block text-slate-500 text-sm">Seven Lions Media</span>
                                         </div>
-                                    </a>
+                                    </div>
                                 </div>
                             </h3>
                             <p class="mt-3 text-sm leading-normal">
@@ -77,7 +77,7 @@
                         <div class="z-10 sm:col-span-6">
                             <h3 class="font-medium leading-snug text-slate-200">
                                 <div>
-                                    <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://www.klaviyo.com" target="_blank" rel="noreferrer noopener" aria-label="Senior Frontend Engineer, Accessibility at Klaviyo (opens in a new tab)">
+                                    <div class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base">
                                         <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                                         <div>
                                             <span class="block mb-1">
@@ -85,7 +85,7 @@
                                             </span>
                                             <span class="block text-slate-500 text-sm">Brightprice Corporation</span>
                                         </div>
-                                    </a>
+                                    </div>
                                 </div>
                             </h3>
                             <p class="mt-3 text-sm leading-normal">
@@ -155,7 +155,7 @@
                         <div class="z-10 sm:col-span-6">
                             <h3 class="font-medium leading-snug text-slate-200">
                                 <div>
-                                    <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://www.klaviyo.com" target="_blank" rel="noreferrer noopener" aria-label="Senior Frontend Engineer, Accessibility at Klaviyo (opens in a new tab)">
+                                    <div class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base">
                                         <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                                         <div>
                                             <span class="block mb-1">
@@ -163,7 +163,7 @@
                                             </span>
                                             <span class="block text-slate-500 text-sm">AT Healthcare</span>
                                         </div>
-                                    </a>
+                                    </div>
                                 </div>
                             </h3>
                             <p class="mt-3 text-sm leading-normal">
@@ -218,7 +218,7 @@
                         <div class="z-10 sm:col-span-6">
                             <h3 class="font-medium leading-snug text-slate-200">
                                 <div>
-                                    <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://www.klaviyo.com" target="_blank" rel="noreferrer noopener" aria-label="Senior Frontend Engineer, Accessibility at Klaviyo (opens in a new tab)">
+                                    <div class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base">
                                         <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                                         <div>
                                             <span class="block mb-1">
@@ -226,7 +226,7 @@
                                             </span>
                                             <span class="block text-slate-500 text-sm">Freelance</span>
                                         </div>
-                                    </a>
+                                    </div>
                                 </div>
                             </h3>
                             <p class="mt-3 text-sm leading-normal">
@@ -281,7 +281,7 @@
                         <div class="z-10 sm:col-span-6">
                             <h3 class="font-medium leading-snug text-slate-200">
                                 <div>
-                                    <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://www.klaviyo.com" target="_blank" rel="noreferrer noopener" aria-label="Senior Frontend Engineer, Accessibility at Klaviyo (opens in a new tab)">
+                                    <div class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base">
                                         <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                                         <div>
                                             <span class="block mb-1">
@@ -289,7 +289,7 @@
                                             </span>
                                             <span class="block text-slate-500 text-sm">Freelance</span>
                                         </div>
-                                    </a>
+                                    </div>
                                 </div>
                             </h3>
                             <p class="mt-3 text-sm leading-normal">
@@ -344,7 +344,7 @@
                         <div class="z-10 sm:col-span-6">
                             <h3 class="font-medium leading-snug text-slate-200">
                                 <div>
-                                    <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="https://www.klaviyo.com" target="_blank" rel="noreferrer noopener" aria-label="Senior Frontend Engineer, Accessibility at Klaviyo (opens in a new tab)">
+                                    <div class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base">
                                         <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                                         <div>
                                             <span class="block mb-1">
@@ -352,7 +352,7 @@
                                             </span>
                                             <span class="block text-slate-500 text-sm">Freelance</span>
                                         </div>
-                                    </a>
+                                    </div>
                                 </div>
                             </h3>
                             <p class="mt-3 text-sm leading-normal">
@@ -400,7 +400,7 @@
                 </li>
             </ol>
             <div class="mt-12">
-                <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300 font-semibold text-slate-200 group/link text-base" href="/resume.pdf" target="_blank" rel="noreferrer noopener" aria-label="View Full Resume (opens in a new tab)">
+                <a class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300 font-semibold text-slate-200 group/link text-base" href="https://drive.google.com/file/d/103nd_fXVPPCNruX8TQHI1Xw4qQkFC4Dm/view?usp=sharing" target="_blank" rel="noreferrer noopener" aria-label="View Full Resume (opens in a new tab)">
                     <span>View Full
                         <span class="inline-block">
                             Resume
