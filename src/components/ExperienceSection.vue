@@ -44,11 +44,11 @@
                 </div>
               </h3>
               <p class="mt-3 text-sm leading-normal">
-                Build and maintain critical components used to construct
-                Klaviyo's frontend, across the whole product. Work closely with
-                cross-functional teams, including developers, designers, and
-                product managers, to implement and advocate for best practices
-                in web accessibility.
+                Developed and maintained fullstack web applications, building
+                responsive and reusable frontend components while developing and
+                integrating backend APIs. Collaborated with developers,
+                designers, and product teams to deliver scalable, accessible,
+                and user-friendly solutions.
               </p>
               <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                 <li class="mr-1.5 mt-2">
@@ -129,11 +129,11 @@
                 </div>
               </h3>
               <p class="mt-3 text-sm leading-normal">
-                Build and maintain critical components used to construct
-                Klaviyo's frontend, across the whole product. Work closely with
-                cross-functional teams, including developers, designers, and
-                product managers, to implement and advocate for best practices
-                in web accessibility.
+                Developed and maintained web applications and marketing
+                platforms, integrating APIs and webhooks with third-party
+                services. Implemented responsive interfaces, automated
+                workflows, and A/B testing while ensuring reliable and
+                maintainable application performance.
               </p>
               <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                 <li class="mr-1.5 mt-2">
@@ -223,11 +223,11 @@
                 </div>
               </h3>
               <p class="mt-3 text-sm leading-normal">
-                Build and maintain critical components used to construct
-                Klaviyo’s frontend, across the whole product. Work closely with
-                cross-functional teams, including developers, designers, and
-                product managers, to implement and advocate for best practices
-                in web accessibility.
+                Designed and developed web applications from concept to
+                implementation, combining UI/UX design with fullstack
+                development. Led interface design and frontend development while
+                collaborating with stakeholders to create responsive, intuitive,
+                and consistent user experiences.
               </p>
               <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                 <li class="mr-1.5 mt-2">
@@ -338,11 +338,11 @@
                 </div>
               </h3>
               <p class="mt-3 text-sm leading-normal">
-                Build and maintain critical components used to construct
-                Klaviyo’s frontend, across the whole product. Work closely with
-                cross-functional teams, including developers, designers, and
-                product managers, to implement and advocate for best practices
-                in web accessibility.
+                Developed and maintained web applications using Laravel and Vue,
+                implementing responsive interfaces, backend APIs, and
+                database-driven features. Collaborated with the development team
+                to troubleshoot issues, improve application functionality, and
+                deliver reliable solutions.
               </p>
               <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                 <li class="mr-1.5 mt-2">
@@ -432,60 +432,45 @@
                 </div>
               </h3>
               <p class="mt-3 text-sm leading-normal">
-                Build and maintain critical components used to construct
-                Klaviyo’s frontend, across the whole product. Work closely with
-                cross-functional teams, including developers, designers, and
-                product managers, to implement and advocate for best practices
-                in web accessibility.
+                Designed and developed microcontroller-based projects involving
+                hardware integration, sensor programming, automation, and custom
+                firmware. Built and tested prototypes while troubleshooting
+                hardware and software issues to ensure reliable operation.
               </p>
               <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                 <li class="mr-1.5 mt-2">
                   <div
                     class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
                   >
-                    Laravel
+                    Arduino
                   </div>
                 </li>
                 <li class="mr-1.5 mt-2">
                   <div
                     class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
                   >
-                    Vue
+                    ESP32
                   </div>
                 </li>
                 <li class="mr-1.5 mt-2">
                   <div
                     class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
                   >
-                    Tailwind
+                    C/C++
                   </div>
                 </li>
                 <li class="mr-1.5 mt-2">
                   <div
                     class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
                   >
-                    Typescript
+                    Electronics
                   </div>
                 </li>
                 <li class="mr-1.5 mt-2">
                   <div
                     class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
                   >
-                    AWS
-                  </div>
-                </li>
-                <li class="mr-1.5 mt-2">
-                  <div
-                    class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
-                  >
-                    Git
-                  </div>
-                </li>
-                <li class="mr-1.5 mt-2">
-                  <div
-                    class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
-                  >
-                    API
+                    Sensors
                   </div>
                 </li>
               </ul>
@@ -526,60 +511,60 @@
                 </div>
               </h3>
               <p class="mt-3 text-sm leading-normal">
-                Build and maintain critical components used to construct
-                Klaviyo’s frontend, across the whole product. Work closely with
-                cross-functional teams, including developers, designers, and
-                product managers, to implement and advocate for best practices
-                in web accessibility.
+                Diagnose, repair, and maintain desktop and laptop systems,
+                covering hardware failures, software issues, upgrades, system
+                optimization, and component replacement. Perform
+                troubleshooting, cleaning, and preventative maintenance to
+                restore system performance and reliability.
               </p>
               <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                 <li class="mr-1.5 mt-2">
                   <div
                     class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
                   >
-                    Laravel
+                    Hardware/Software
                   </div>
                 </li>
                 <li class="mr-1.5 mt-2">
                   <div
                     class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
                   >
-                    Vue
+                    Windows
                   </div>
                 </li>
                 <li class="mr-1.5 mt-2">
                   <div
                     class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
                   >
-                    Tailwind
+                    PC Builds
                   </div>
                 </li>
                 <li class="mr-1.5 mt-2">
                   <div
                     class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
                   >
-                    Typescript
+                    Troubleshooting
                   </div>
                 </li>
                 <li class="mr-1.5 mt-2">
                   <div
                     class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
                   >
-                    AWS
+                    Upgrades
                   </div>
                 </li>
                 <li class="mr-1.5 mt-2">
                   <div
                     class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
                   >
-                    Git
+                    Maintenance
                   </div>
                 </li>
                 <li class="mr-1.5 mt-2">
                   <div
                     class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
                   >
-                    API
+                    Diagnostics
                   </div>
                 </li>
               </ul>
@@ -620,60 +605,53 @@
                 </div>
               </h3>
               <p class="mt-3 text-sm leading-normal">
-                Build and maintain critical components used to construct
-                Klaviyo’s frontend, across the whole product. Work closely with
-                cross-functional teams, including developers, designers, and
-                product managers, to implement and advocate for best practices
-                in web accessibility.
+                Create and edit multimedia content including videos, graphics,
+                photos, and digital assets for personal and business projects.
+                Handle video editing, image enhancement, motion graphics, and
+                visual content production while maintaining quality and
+                consistency across different platforms.
               </p>
               <ul class="mt-2 flex flex-wrap" aria-label="Technologies used">
                 <li class="mr-1.5 mt-2">
                   <div
                     class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
                   >
-                    Laravel
+                    Video Editing
                   </div>
                 </li>
                 <li class="mr-1.5 mt-2">
                   <div
                     class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
                   >
-                    Vue
+                    Photo Editing
                   </div>
                 </li>
                 <li class="mr-1.5 mt-2">
                   <div
                     class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
                   >
-                    Tailwind
+                    Graphics Design
                   </div>
                 </li>
                 <li class="mr-1.5 mt-2">
                   <div
                     class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
                   >
-                    Typescript
+                    Motion Graphics
                   </div>
                 </li>
                 <li class="mr-1.5 mt-2">
                   <div
                     class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
                   >
-                    AWS
+                    Visual Content
                   </div>
                 </li>
                 <li class="mr-1.5 mt-2">
                   <div
                     class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
                   >
-                    Git
-                  </div>
-                </li>
-                <li class="mr-1.5 mt-2">
-                  <div
-                    class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
-                  >
-                    API
+                    Digital Media
                   </div>
                 </li>
               </ul>
